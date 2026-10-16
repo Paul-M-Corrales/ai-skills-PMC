@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "notice": "Candidate sources only. Review licenses, instructions and executable code before installation.",
+  "sources": [
+    {"id":"anthropic-skills","url":"https://github.com/anthropics/skills","type":"skill-library","topics":["general"],"review_status":"pending"},
+    {"id":"open-design","url":"https://github.com/nexu-io/open-design","type":"design-platform","topics":["design"],"review_status":"pending"},
+    {"id":"rea","url":"https://github.com/morluto/rea","type":"tool-platform","topics":["reverse-engineering"],"review_status":"pending"},
+    {"id":"taste-skill","url":"https://github.com/Leonxlnx/taste-skill","type":"skill-library","topics":["design","frontend"],"review_status":"pending"},
+    {"id":"awesome-claude-skills","url":"https://github.com/ComposioHQ/awesome-claude-skills","type":"curated-list","topics":["general"],"review_status":"pending"},
+    {"id":"marketingskills","url":"https://github.com/coreyhaines31/marketingskills","type":"skill-library","topics":["marketing"],"review_status":"pending"},
+    {"id":"agentic-awesome-skills","url":"https://github.com/sickn33/agentic-awesome-skills","type":"skill-library","topics":["general"],"review_status":"pending"}
+  ]
+}
